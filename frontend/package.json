@@ -1,6 +1,6 @@
 {
   "name": "frontend",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mypkg2": "^1.2.4",
-    "pkg1": "^1.2.4"
+    "mypkg2": "^1.2.5",
+    "pkg1": "^1.2.5"
   }
 }
