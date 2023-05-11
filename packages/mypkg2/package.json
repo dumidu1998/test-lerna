@@ -1,6 +1,6 @@
 {
   "name": "mypkg2",
-  "version": "1.2.7",
+  "version": "1.2.8",
   "description": "> TODO: description",
   "author": "Dumidu Kasun Bandara Rajakaruna <dumidu.r@theavo.net>",
   "homepage": "",
@@ -17,6 +17,6 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "pkg1": "^1.2.7"
+    "pkg1": "^1.2.8"
   }
 }
