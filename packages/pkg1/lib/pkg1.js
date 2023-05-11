@@ -12,5 +12,6 @@ function pkg1() {
   console.log("dumidu");
   console.log("dumidu");
   console.log("dumidu");
+  console.log("dumidu");
   // TODO
 }
