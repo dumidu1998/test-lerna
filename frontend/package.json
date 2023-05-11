@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "pkg1": "^1.2.2",
-    "pkg2": "1.2.1"
+    "mypkg2": "1.2.2"
   }
 }

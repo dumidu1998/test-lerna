@@ -1,0 +1,26 @@
+# Ignore node_modules directory in root
+node_modules/
+
+# Ignore node_modules directory in packages
+/packages/*/node_modules/
+/frontend/node_modules/
+
+# Ignore files generated during development or build process
+/.cache/
+/.vscode/
+/dist/
+/build/
+
+# Ignore Lerna specific files and directories
+/.lerna/
+/lerna-debug.log
+
+# Ignore OS and editor specific files
+.DS_Store
+*.log
+*.swp
+*.swo
+*.tmp
+*.tmp.*
+*.bak
+*~
