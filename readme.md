@@ -33,6 +33,8 @@ lerna add package-a --scope=package-b --no-bootstrap
 
 lerna version
 
+lerna version --conventional-commits --create-release=github
+
 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
 
 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
