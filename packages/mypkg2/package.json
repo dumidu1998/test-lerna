@@ -1,5 +1,5 @@
 {
-  "name": "@dumidu1998/mypkg2",
+  "name": "@emolog400/mypkg2",
   "version": "1.2.9",
   "description": "> TODO: description",
   "author": "Dumidu Kasun Bandara Rajakaruna <dumidu.r@theavo.net>",
@@ -20,7 +20,7 @@
     "pkg1": "^1.2.9"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@dumidu1998"
+    "registry": "https://npm.pkg.github.com/@emolog400"
   },
   "gitHead": "5886f72a34c57339124b769505828d69c06b3c41"
 }
